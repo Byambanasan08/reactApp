@@ -1,0 +1,20 @@
+.Logo {
+  background-color: #fff;
+  height: 50px;
+  width: 50px;
+  border-radius: 50% 40% 100px;
+}
+.NaV {
+  /* background-color: blue; */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 40px;
+}
+ul {
+  display: flex;
+  gap: 20px;
+}
+ul li {
+  list-style: none;
+}
